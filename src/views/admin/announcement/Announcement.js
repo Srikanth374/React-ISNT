@@ -47,7 +47,7 @@ const MySwal = withReactContent(Swal)
       })
     }
 
-  //   // const [basicModal, setBasicModal] = useState(false)
+    // const [basicModal, setBasicModal] = useState(false)
   return (   
     <>
     
@@ -109,7 +109,7 @@ const MySwal = withReactContent(Swal)
     </Card>
         </Col>
     </Row>
-  //   {/* <Modal isOpen={basicModal} toggle={() => setBasicModal(!basicModal)}>
+   {/* <Modal isOpen={basicModal} toggle={() => setBasicModal(!basicModal)}>
   //    <ModalHeader toggle={() => setBasicModal(!basicModal)}>Delete</ModalHeader>
   //    <ModalBody className='d-flex justify-content-center'>
   //     <div style={{color:'red'}} ><Icons.AlertCircle size={70}/></div> <br /> <br /> 
